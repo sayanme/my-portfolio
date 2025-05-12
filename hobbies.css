@@ -1,0 +1,19 @@
+* {
+    padding: 3px 1px;
+
+}
+
+h1 {
+    color: #9fe2bf;
+
+}
+
+p {
+    color: #f0f0f0;
+    /* Soft white */
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 15px 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
